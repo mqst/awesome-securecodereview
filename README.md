@@ -1,4 +1,4 @@
-# Secure Code Review Practice Snippets
+# Awesome Secure Code Review 
 All the code snippets from my Secure Code Review series on YouTube (youtube.com/@muqsitbaig)!
 
 # Future plans
